@@ -1,3 +1,9 @@
+/dev_notebooks
+/data
+.env
+.csv
+/.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
